@@ -1,5 +1,5 @@
 # ArcWeatherAi
-AI Generated Photo Of Current Weather In A Random City, Real City, Real Weather, Generated Image - Stable Diffusion.
+AI Generated Photo Of Current Weather In A Random City- Real City, Real Weather, Generated Image - Stable Diffusion - OpenAI Dall-E2 - MidJourney
 
 This code is powering the [Arc Weather AI Twitter Account](https://x.com/ArcWeather)
 
