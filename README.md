@@ -1,7 +1,7 @@
 # ArcWeatherAi
 AI Generated Photo Of Current Weather In A Random City, Real City, Real Weather, Generated Image - Stable Diffusion.
 
-This code is powering the [Arc Weather AI Twitter Account](url)
+This code is powering the [Arc Weather AI Twitter Account](https://x.com/ArcWeather)
 
 This code will
 
